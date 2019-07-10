@@ -1,7 +1,7 @@
 
 # ⚠️ marketplace-kit has changed its name to `pos-cli`.
 
-## You are looking for (https://github.com/mdyd-dev/pos-cli)[https://github.com/mdyd-dev/pos-cli] 
+## You are looking for [https://github.com/mdyd-dev/pos-cli](https://github.com/mdyd-dev/pos-cli)
 
 ---
 
